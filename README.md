@@ -1,8 +1,7 @@
 ## Hi I'm shadawck <img src="wavehand.gif" alt="wave" width="30"/>
 
-<p align="justify">
 <b>Status:</b> Finishing my double IT degree at @ulaval
-</p>
+
 My alias is Shadawck and I'm a near to be Software & CyberSecurity Engineer with a strong focus on Automation, DevSecOps, Testing and ... SECURITY !
 
 You can find me on the security path on [TryHackMe](insert-tryhackme-here)
