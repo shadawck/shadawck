@@ -8,7 +8,7 @@ You can find me on the security path on [TryHackMe](insert-tryhackme-here)
 
 ### Currently 
 |  ☁️ Learning cloud pentesting \
-|  <img src="rust.png" alt="rust" width="22"/> Practicing on [Rust](https://www.rust-lang.org/)
+|  <img src="rust.png" alt="rust" width="22"/> Practicing on [Rust](https://www.rust-lang.org/) \
 |  🚧 Working on a DevSecOps Framework similar to [PTF](https://github.com/trustedsec/ptf) (but... for DevSecOps Operation obviously)
 
 
