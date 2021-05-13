@@ -19,5 +19,4 @@ You can find me on the security path on [TryHackMe](insert-tryhackme-here)
 
 ## Aside from IT
 🧊  Doing some 3D stuffs, and you can find them on [Sketchfab](https://sketchfab.com/blendercreation/models) \
-📸 Climber at heart and taking picture of Paris from the 🔝 on [Instagram](https://www.instagram.com/hugemir_photo/)
 
