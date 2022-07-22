@@ -1,6 +1,6 @@
 ## Hi I'm shadawck <img src="wavehand.gif" alt="wave" width="30"/>
 
-<b>Status:</b> Finishing my double IT degree at @ulaval
+<b>Status:</b> Taking time for myself
 
 My alias is Shadawck and I'm a Software & CyberSecurity Engineer with a strong focus on Automation, DevSecOps, Testing and ... SECURITY !
 
